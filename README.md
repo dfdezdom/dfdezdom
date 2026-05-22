@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Diego 👋</h1>
-<h3 align="center">Engineering Manager · Python enthusiast · Global Fashion Retail</h3>
+<h3 align="center">Engineering Manager</h3>
 
 <br/>
 
