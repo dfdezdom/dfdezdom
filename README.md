@@ -38,8 +38,3 @@
 | [InvestDayTip](https://github.com/dfdezdom/InvestDayTip) | 📊 CLI tool that suggests 5 stock investment picks at the moment you run it |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dfdezdom&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfdezdom&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
