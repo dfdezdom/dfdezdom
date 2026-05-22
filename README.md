@@ -4,8 +4,8 @@
 <br/>
 
 <p align="center">
-  I lead engineering teams building software at scale for global fashion retail.
-  I'm passionate about clean code, developer experience, and using data to drive decisions.
+  I help engineering teams building software at scale for global fashion retail.
+  I'm passionate about technology, developer experience, and using data to drive decisions.
 </p>
 
 ---
