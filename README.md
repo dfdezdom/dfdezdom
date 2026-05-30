@@ -34,6 +34,6 @@
 
 | Project | Description |
 |---------|-------------|
-| [InvestDayTip](https://github.com/dfdezdom/InvestDayTip) | 📊 CLI tool that suggests 5 stock investment picks at the moment you run it |
+| [investdaytip](https://github.com/dfdezdom/investdaytip) | 📊 CLI tool that suggests 5 stock investment picks at the moment you run it |
 
 ---
