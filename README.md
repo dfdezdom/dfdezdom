@@ -13,6 +13,7 @@
 ### 🧑‍💼 About me
 
 - 🏢 Engineering Manager in the **global fashion retail** industry
+- 🧑‍🎨 Application Sculptor in the Era of AI-Driven Software Development 
 - 🐍 Python is my go-to language for tooling, automation, and side projects
 - 🚀 I enjoy bridging the gap between technology and business strategy
 - 📈 Building side projects around **finance & investment data**
